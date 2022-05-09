@@ -10,8 +10,8 @@ export default function Donate() {
         <Image
           src={"/Saweria.png"}
           alt="Saweria Donasi"
-          width={512}
-          height={128}
+          width={300}
+          height={100}
           className="cursor-pointer"
         />
       </Link>

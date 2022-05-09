@@ -30,6 +30,11 @@ export default function Landing() {
             Projects
           </button>
         </a>
+        <a href="#socials">
+          <button className="rounded-md bg-blue-500 hover:bg-blue-600 text-white px-2 py-2 font-semibold">
+            Socials
+          </button>
+        </a>
         <a href="#donasi">
           <button className="rounded-md bg-blue-500 hover:bg-blue-600 text-white px-2 py-2 font-semibold">
             Donate

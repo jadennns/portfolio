@@ -2,6 +2,7 @@ import AboutMe from "../components/sections/AboutMe";
 import Donate from "../components/sections/Donate";
 import Landing from "../components/sections/Landing";
 import Projects from "../components/sections/Projects";
+import Socials from "../components/sections/Socials";
 import Utilities from "../components/sections/Utilities";
 import Footer from "../components/ui/Footer";
 
@@ -14,6 +15,7 @@ export default function Home() {
           <AboutMe />
           <Utilities />
           <Projects />
+          <Socials />
           <Donate />
         </div>
         <Footer />
